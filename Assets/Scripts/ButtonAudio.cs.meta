@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 2bbb2ed3ca7a67e478c4669d4f1e1875
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - HoverButton: {fileID: 8300000, guid: 96cd1839f98131e4fa24468bac7ea055, type: 3}
+  - NStartButton: {fileID: 8300000, guid: a724d24aab675dc419ee2e48dfe36dd4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

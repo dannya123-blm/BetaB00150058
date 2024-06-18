@@ -1,0 +1,46 @@
+SOURCES: B00150058 Daniel Aigbe
+
+MAIN MENU SPRITE - https://pin.it/3TJjInOYM
+
+MenuAudio - https://pixabay.com/sound-effects/8-bit-moonlight-sonata-music-loop-20436/
+
+GameOver Audio - https://pixabay.com/sound-effects/game-over-38511/
+
+GameWin Audio - https://pixabay.com/sound-effects/win-sfx-38507/
+
+TEXT FONT: https://assetstore.unity.com/packages/2d/fonts/free-pixel-font-thaleah-140059
+
+Hover Button Audio - https://pixabay.com/sound-effects/click-for-game-menu-131903/
+
+Start Button Audio - https://pixabay.com/sound-effects/game-start-6104/
+
+Audio On Button - https://www.pngwing.com/en/free-png-aaixx
+
+Audio off Button -https://www.iconfinder.com/icons/679544/disable_media_mute_no_sound_off_volume_icon
+
+SIDESCROLLER MAP PARTS - https://assetstore.unity.com/packages/3d/environments/hypepoly-isometric-tiles-standart-lite-193779
+
+PORTAL - https://assetstore.unity.com/packages/3d/environments/fantasy/the-portal-collection-205438
+
+Keys - https://assetstore.unity.com/packages/3d/props/rust-key-167590
+
+RPG Monster DUO PBR POLYTART Enemy - https://assetstore.unity.com/packages/3d/characters/creatures/rpg-monster-duo-pbr-polyart-157762
+
+Cant enter portal audio - https://pixabay.com/sound-effects/080205-life-lost-game-over-89697/
+
+Enter portal audio - https://pixabay.com/sound-effects/portal-phase-jump-6355/
+
+Player - https://assetstore.unity.com/packages/3d/characters/low-character-pack-free-sample-192954
+
+HealthBar- https://assetstore.unity.com/packages/tools/utilities/health-system-for-dummies-215755
+
+Level1Audio- https://pixabay.com/music/video-games-pd-feelings-2-go-ahead-mix-211189/
+
+DeathAudio - https://pixabay.com/sound-effects/088543-cheesy-death-noise-82782/
+
+CLOUDS - https://assetstore.unity.com/packages/3d/3le-low-poly-cloud-pack-65911
+
+simple sky
+
+Obstacles - https://assetstore.unity.com/packages/3d/props/ball-pack-446
+// This code is based on from SymfonyCasts & Wschools:
