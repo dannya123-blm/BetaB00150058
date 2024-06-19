@@ -30,7 +30,7 @@ Cant enter portal audio - https://pixabay.com/sound-effects/080205-life-lost-gam
 
 Enter portal audio - https://pixabay.com/sound-effects/portal-phase-jump-6355/
 
-Player - https://assetstore.unity.com/packages/3d/characters/low-character-pack-free-sample-192954
+Player and animations for running- https://assetstore.unity.com/packages/3d/animations/basic-motions-free-154271
 
 HealthBar- https://assetstore.unity.com/packages/tools/utilities/health-system-for-dummies-215755
 
@@ -40,7 +40,16 @@ DeathAudio - https://pixabay.com/sound-effects/088543-cheesy-death-noise-82782/
 
 CLOUDS - https://assetstore.unity.com/packages/3d/3le-low-poly-cloud-pack-65911
 
-simple sky
+Simple Sky and Clouds - https://assetstore.unity.com/packages/3d/environments/simple-sky-cartoon-assets-42373
+
+Background for mobile games, portrait, 2D, art - https://assetstore.unity.com/packages/2d/environments/background-for-mobile-games-portrait-2d-art-246460
+
+Timer Audio (Timer) - https://pixabay.com/sound-effects/short-beep-countdown-81121/
+// This code is based on from https://youtu.be/POq1i8FyRyQ?si=j5Qptbd0DywsHJyI:
+//Make a TIMER & COUNTDOWN in 5 Mins | Unity Tutorial for Beginners
 
 Obstacles - https://assetstore.unity.com/packages/3d/props/ball-pack-446
 // This code is based on from SymfonyCasts & Wschools:
+
+
+Heart - https://assetstore.unity.com/packages/3d/props/simple-gems-ultimate-animated-customizable-pack-73764
