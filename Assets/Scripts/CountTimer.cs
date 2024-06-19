@@ -1,3 +1,6 @@
+// This code is based on from https://youtu.be/POq1i8FyRyQ?si=j5Qptbd0DywsHJyI:
+//Make a TIMER & COUNTDOWN in 5 Mins | Unity Tutorial for Beginners
+
 using System.Collections;
 using TMPro;
 using UnityEngine;

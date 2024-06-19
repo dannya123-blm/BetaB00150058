@@ -1,16 +1,18 @@
+// This code is based on from Create With Code Series:
+
 using UnityEngine;
 
 public class EnemyDamage : MonoBehaviour
 {
     public int damageAmount = 10;
-    public bool destroyOnCollision = false;  // Whether the enemy should be destroyed upon collision
+    public bool destroyOnCollision = false; 
     public float moveSpeed = 3f;
     private Transform playerTransform;
-    private bool isGrounded = false;
+    private bool isGrounded = false; 
+
 
     private void Start()
     {
-        // Find the player GameObject by tag
         playerTransform = GameObject.FindGameObjectWithTag("Player").transform;
     }
 
@@ -19,17 +21,23 @@ public class EnemyDamage : MonoBehaviour
         // Move towards the player only if the enemy is grounded
         if (playerTransform != null && isGrounded)
         {
+            // Calculate direction towards the player
             Vector3 direction = new Vector3(playerTransform.position.x - transform.position.x, 0, 0).normalized;
+
+            // Move the enemy towards the player
             transform.position += direction * moveSpeed * Time.deltaTime;
         }
     }
 
+    // Called when this collider/rigidbody has begun touching another rigidbody/collider
     private void OnCollisionEnter(Collision collision)
     {
+        // Check if the enemy collides with the ground
         if (collision.gameObject.CompareTag("Ground"))
         {
-            isGrounded = true;
+            isGrounded = true; // Set isGrounded to true when colliding with the ground
         }
+        // Check if the enemy collides with the player
         else if (collision.gameObject.CompareTag("Player"))
         {
             // Get the PlayerHealth component from the player
@@ -42,17 +50,19 @@ public class EnemyDamage : MonoBehaviour
                 // Destroy the enemy if needed
                 if (destroyOnCollision)
                 {
-                    Destroy(gameObject);
+                    Destroy(gameObject); // Destroy the enemy GameObject
                 }
             }
         }
     }
 
+    // Called when this collider/rigidbody has stopped touching another rigidbody/collider
     private void OnCollisionExit(Collision collision)
     {
+        // Check if the enemy stops colliding with the ground
         if (collision.gameObject.CompareTag("Ground"))
         {
-            isGrounded = false;
+            isGrounded = false; // Set isGrounded to false when not colliding with the ground
         }
     }
 }

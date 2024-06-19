@@ -1,3 +1,4 @@
+// This code is based on from Create With Code Series - Unit 4 Powerups:
 using UnityEngine;
 
 public class HealthPack : MonoBehaviour

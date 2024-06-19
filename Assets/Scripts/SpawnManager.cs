@@ -1,3 +1,4 @@
+// This code is based on from Create With Code Series:
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -6,7 +7,7 @@ public class SpawnManager : MonoBehaviour
 {
     public GameObject[] enemyPrefabs;
     public GameObject[] keyPrefabs;
-    public int numberOfKeys = 3;
+    public int numberOfKeys = 6;
     public int numberOfEnemies = 4;
 
     private Vector3[] spawnPoints = new Vector3[]
