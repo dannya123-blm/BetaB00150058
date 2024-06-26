@@ -1,3 +1,4 @@
+// This code is based on from Create With Code Series - unit 5:
 using UnityEngine;
 using UnityEngine.UI;
 

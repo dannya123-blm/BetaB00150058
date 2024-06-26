@@ -1,3 +1,4 @@
+// This code is based on from Create With Code Series:
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using System.Collections;
