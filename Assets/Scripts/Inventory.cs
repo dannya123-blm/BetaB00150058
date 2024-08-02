@@ -1,13 +1,12 @@
-// This code is based on from Create With Code Series - unit 5:
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement; // Include this namespace for scene management
 
 public class Inventory : MonoBehaviour
 {
-
     public Text keyText;
     private int keysCollected = 0;
-    private int totalKeys = 5;
+    private int totalKeys;
 
     // Public read-only properties to access the number of collected keys and total keys required
     public int KeysCollected => keysCollected;
@@ -15,14 +14,15 @@ public class Inventory : MonoBehaviour
 
     private void Start()
     {
-        UpdateKeyText();
+        SetTotalKeys(); // Set the total keys based on the active scene
+        UpdateKeyText(); 
     }
 
     // Method to increment the number of collected keys
     public void CollectKey()
     {
         keysCollected++; // Increment the collected keys
-        UpdateKeyText(); // Update the key text
+        UpdateKeyText(); 
     }
 
     // Method to update the key text UI element
@@ -35,5 +35,23 @@ public class Inventory : MonoBehaviour
     public bool HasAllKeys()
     {
         return keysCollected >= totalKeys;
+    }
+
+    // Method to set total keys based on the active scene
+    private void SetTotalKeys()
+    {
+        string sceneName = SceneManager.GetActiveScene().name; // Get the active scene name
+        if (sceneName == "Level_1")
+        {
+            totalKeys = 3; // Set total keys to 3 for level_1
+        }
+        else if (sceneName == "Level_2")
+        {
+            totalKeys = 5; // Set total keys to 5 for level_2
+        }
+        else
+        {
+            totalKeys = 0; // Default value if the scene is not recognized
+        }
     }
 }

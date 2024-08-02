@@ -17317,8 +17317,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7c9ad7f50c0a1c48826bc09bd024ee4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  totalKeys: 3
-  keysCollected: 0
   keyText: {fileID: 1837036506}
 --- !u!114 &1673542819
 MonoBehaviour:
@@ -17950,7 +17948,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Key''s Collected:'
+  m_Text: 'keys:'
 --- !u!222 &1837036507
 CanvasRenderer:
   m_ObjectHideFlags: 0
