@@ -1,55 +1,133 @@
 SOURCES: B00150058 Daniel Aigbe
 
-MAIN MENU SPRITE - https://pin.it/3TJjInOYM
+Name of Asset in folder: Background, summer_10
+Original Name from Url: Background for mobile games, portrait, 2D, art
+Url Link: https://assetstore.unity.com/packages/2d/environments/background-for-mobile-games-portrait-2d-art-246460
+________________________________________________________________________________________________
+Name of Asset in folder: MenuAudio
+Original Name from Url: 8-Bit Moonlight Sonata Music Loop
+Url Link: https://pixabay.com/sound-effects/8-bit-moonlight-sonata-music-loop-20436/
 
-MenuAudio - https://pixabay.com/sound-effects/8-bit-moonlight-sonata-music-loop-20436/
 
-GameOver Audio - https://pixabay.com/sound-effects/game-over-38511/
-
-GameWin Audio - https://pixabay.com/sound-effects/win-sfx-38507/
-
-TEXT FONT: https://assetstore.unity.com/packages/2d/fonts/free-pixel-font-thaleah-140059
+Name of Asset in folder:
+Original Name from Url:
+Url Link:
 
 Hover Button Audio - https://pixabay.com/sound-effects/click-for-game-menu-131903/
 
+Name of Asset in folder:
+Original Name from Url:
+Url Link:
+
 Start Button Audio - https://pixabay.com/sound-effects/game-start-6104/
+
+Name of Asset in folder:
+Original Name from Url:
+Url Link:
 
 Audio On Button - https://www.pngwing.com/en/free-png-aaixx
 
+Name of Asset in folder:
+Original Name from Url:
+Url Link:
+
 Audio off Button -https://www.iconfinder.com/icons/679544/disable_media_mute_no_sound_off_volume_icon
 
-SIDESCROLLER MAP PARTS - https://assetstore.unity.com/packages/3d/environments/hypepoly-isometric-tiles-standart-lite-193779
+Name of Asset in folder:
+Original Name from Url:
+Url Link:
 
-PORTAL - https://assetstore.unity.com/packages/3d/environments/fantasy/the-portal-collection-205438
+GameOver Audio - https://pixabay.com/sound-effects/game-over-38511/
 
-Keys - https://assetstore.unity.com/packages/3d/props/rust-key-167590
+Name of Asset in folder:
+Original Name from Url:
+Url Link:
 
-RPG Monster DUO PBR POLYTART Enemy - https://assetstore.unity.com/packages/3d/characters/creatures/rpg-monster-duo-pbr-polyart-157762
+GameWin Audio - https://pixabay.com/sound-effects/win-sfx-38507/
+
+Name of Asset in folder:
+Original Name from Url:
+Url Link:
 
 Cant enter portal audio - https://pixabay.com/sound-effects/080205-life-lost-game-over-89697/
 
+Name of Asset in folder:
+Original Name from Url:
+Url Link:
+
 Enter portal audio - https://pixabay.com/sound-effects/portal-phase-jump-6355/
 
-Player and animations for running- https://assetstore.unity.com/packages/3d/animations/basic-motions-free-154271
-
-HealthBar- https://assetstore.unity.com/packages/tools/utilities/health-system-for-dummies-215755
-
-Level1Audio- https://pixabay.com/music/video-games-pd-feelings-2-go-ahead-mix-211189/
-
-DeathAudio - https://pixabay.com/sound-effects/088543-cheesy-death-noise-82782/
-
-CLOUDS - https://assetstore.unity.com/packages/3d/3le-low-poly-cloud-pack-65911
-
-Simple Sky and Clouds - https://assetstore.unity.com/packages/3d/environments/simple-sky-cartoon-assets-42373
-
-Background for mobile games, portrait, 2D, art - https://assetstore.unity.com/packages/2d/environments/background-for-mobile-games-portrait-2d-art-246460
+Name of Asset in folder:
+Original Name from Url:
+Url Link:
 
 Timer Audio (Timer) - https://pixabay.com/sound-effects/short-beep-countdown-81121/
 // This code is based on from https://youtu.be/POq1i8FyRyQ?si=j5Qptbd0DywsHJyI:
 //Make a TIMER & COUNTDOWN in 5 Mins | Unity Tutorial for Beginners
 
-Obstacles - https://assetstore.unity.com/packages/3d/props/ball-pack-446
-// This code is based on from SymfonyCasts & Wschools:
+Name of Asset in folder:
+Original Name from Url:
+Url Link:
 
+Level1Audio- https://pixabay.com/music/video-games-pd-feelings-2-go-ahead-mix-211189/
 
-Heart - https://assetstore.unity.com/packages/3d/props/simple-gems-ultimate-animated-customizable-pack-73764
+Name of Asset in folder:
+Original Name from Url:
+Url Link:
+
+DeathAudio - https://pixabay.com/sound-effects/088543-cheesy-death-noise-82782/
+
+_________________________________________________________________________________________________
+
+PORTAL:
+
+Name of Asset in folder: PortalThree
+Original Name from Url: The Portal Collection
+Url Link: https://assetstore.unity.com/packages/3d/environments/fantasy/the-portal-collection-205438
+
+KEYS:
+
+Name of Asset in folder: rust_key.prefab
+Original Name from Url: Rust Key
+Url Link: https://assetstore.unity.com/packages/3d/props/rust-key-167590
+
+OBSTACLES:
+
+Name of Asset in folder: EyeBall
+Original Name from Url: Ball Pack
+Url Link: https://assetstore.unity.com/packages/3d/props/ball-pack-446
+
+RUN ANIMATION FOR PLAYER:
+
+Name of Asset in folder: BasicMotions@Run
+Original Name from Url: Basic Motions FREE
+Url Link: https://assetstore.unity.com/packages/3d/animations/basic-motions-free-154271
+
+HEALTHBAR: 
+
+Name of Asset in folder: blood_red_bar_fill
+Original Name from Url: Health System For Dummies
+Url Link: https://assetstore.unity.com/packages/tools/utilities/health-system-for-dummies-215755
+
+CLOUDS:
+
+Name of Asset in folder: Cloud_01/Cloud_04
+Original Name from Url: Simple Sky - Cartoon assets
+Url Link: https://assetstore.unity.com/packages/3d/environments/simple-sky-cartoon-assets-42373
+
+HEART POWERUP HEAL:
+
+Name of Asset in folder: Heart.prefab
+Original Name from Url: Simple Gems Ultimate Animated Customizable Pack
+Url Link: https://assetstore.unity.com/packages/3d/props/simple-gems-ultimate-animated-customizable-pack-73764
+
+COOL CUSTOM FONT:
+Name of Asset in folder: ThaleahFat_TTF SDF.asset
+Original Name from Url: Free Pixel Font - Thaleah
+Url Link:  https://assetstore.unity.com/packages/2d/fonts/free-pixel-font-thaleah-140059
+
+Name of Asset in folder:
+Original Name from Url:
+Url Link:
+
+SIDESCROLLER MAP PARTS - https://assetstore.unity.com/packages/3d/environments/hypepoly-isometric-tiles-standart-lite-193779

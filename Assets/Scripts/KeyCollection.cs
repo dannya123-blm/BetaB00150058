@@ -1,4 +1,4 @@
-// This code is based on from Create With Code Series - unit4/5:
+// This code is based on from Create With Code Series:
 using UnityEngine;
 
 public class KeyCollect : MonoBehaviour
