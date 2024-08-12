@@ -1,82 +1,61 @@
 SOURCES: B00150058 Daniel Aigbe
-
+Menu, Game Over and Game Won Background:
 Name of Asset in folder: Background, summer_10
 Original Name from Url: Background for mobile games, portrait, 2D, art
 Url Link: https://assetstore.unity.com/packages/2d/environments/background-for-mobile-games-portrait-2d-art-246460
-________________________________________________________________________________________________
+Statement: hasn't been modified
+___________________________________________________________________________________________
+
+Audio for menu, Game over and game win scenes:
+
 Name of Asset in folder: MenuAudio
 Original Name from Url: 8-Bit Moonlight Sonata Music Loop
 Url Link: https://pixabay.com/sound-effects/8-bit-moonlight-sonata-music-loop-20436/
+Statement: I have only edited the volume of the audio through unity
 
+Audio for Hovering over button in menu:
 
-Name of Asset in folder:
-Original Name from Url:
-Url Link:
+Name of Asset in folder: HoverButton
+Original Name from Url: Click For Game Menu
+Url Link: https://pixabay.com/sound-effects/click-for-game-menu-131903/
+Statement: I have only edited the volume of the audio through unity
 
-Hover Button Audio - https://pixabay.com/sound-effects/click-for-game-menu-131903/
+Audio for not being able to enter the portal:
 
-Name of Asset in folder:
-Original Name from Url:
-Url Link:
+Name of Asset in folder: NotEnterPortal
+Original Name from Url: 080205_Life Lost Game Over
+Url Link: https://pixabay.com/sound-effects/080205-life-lost-game-over-89697/
+Statement: I have only edited the volume of the audio through unity
 
-Start Button Audio - https://pixabay.com/sound-effects/game-start-6104/
+Audio for entering the portal:
 
-Name of Asset in folder:
-Original Name from Url:
-Url Link:
+Name of Asset in folder: EnterPortalAudio
+Original Name from Url: Portal Phase Jump
+Url Link: https://pixabay.com/sound-effects/portal-phase-jump-6355/
+Statement: I have only edited the volume of the audio through unity
 
-Audio On Button - https://www.pngwing.com/en/free-png-aaixx
+Audio for Time Countdown:
 
-Name of Asset in folder:
-Original Name from Url:
-Url Link:
+Name of Asset in folder: Timer
+Original Name from Url: Short beep countdown
+Url Link: https://pixabay.com/sound-effects/short-beep-countdown-81121/
+Statement: I have only edited the volume of the audio through unity
 
-Audio off Button -https://www.iconfinder.com/icons/679544/disable_media_mute_no_sound_off_volume_icon
-
-Name of Asset in folder:
-Original Name from Url:
-Url Link:
-
-GameOver Audio - https://pixabay.com/sound-effects/game-over-38511/
-
-Name of Asset in folder:
-Original Name from Url:
-Url Link:
-
-GameWin Audio - https://pixabay.com/sound-effects/win-sfx-38507/
-
-Name of Asset in folder:
-Original Name from Url:
-Url Link:
-
-Cant enter portal audio - https://pixabay.com/sound-effects/080205-life-lost-game-over-89697/
-
-Name of Asset in folder:
-Original Name from Url:
-Url Link:
-
-Enter portal audio - https://pixabay.com/sound-effects/portal-phase-jump-6355/
-
-Name of Asset in folder:
-Original Name from Url:
-Url Link:
-
-Timer Audio (Timer) - https://pixabay.com/sound-effects/short-beep-countdown-81121/
 // This code is based on from https://youtu.be/POq1i8FyRyQ?si=j5Qptbd0DywsHJyI:
 //Make a TIMER & COUNTDOWN in 5 Mins | Unity Tutorial for Beginners
 
-Name of Asset in folder:
-Original Name from Url:
-Url Link:
+Audio for Death:
 
-Level1Audio- https://pixabay.com/music/video-games-pd-feelings-2-go-ahead-mix-211189/
+Name of Asset in folder: DeathAudio
+Original Name from Url: 088543_Cheesy Death Noise
+Url Link: https://pixabay.com/sound-effects/088543-cheesy-death-noise-82782/
+Statement: I have only edited the volume of the audio through unity
 
-Name of Asset in folder:
-Original Name from Url:
-Url Link:
+Audio for Level 1:
 
-DeathAudio - https://pixabay.com/sound-effects/088543-cheesy-death-noise-82782/
-
+Name of Asset in folder: Level1Audio
+Original Name from Url: Retro Games (Glitch Technology Synthwave)
+Url Link: https://pixabay.com/music/video-games-retro-games-glitch-technology-synthwave-199939/
 _________________________________________________________________________________________________
 
 PORTAL:
@@ -84,50 +63,61 @@ PORTAL:
 Name of Asset in folder: PortalThree
 Original Name from Url: The Portal Collection
 Url Link: https://assetstore.unity.com/packages/3d/environments/fantasy/the-portal-collection-205438
+Statement: hasn't been modified
 
 KEYS:
 
 Name of Asset in folder: rust_key.prefab
 Original Name from Url: Rust Key
 Url Link: https://assetstore.unity.com/packages/3d/props/rust-key-167590
+Statement: size and colour key has been changed
 
 OBSTACLES:
 
 Name of Asset in folder: EyeBall
 Original Name from Url: Ball Pack
 Url Link: https://assetstore.unity.com/packages/3d/props/ball-pack-446
+Statement: Changed the size of the eyeball
 
-RUN ANIMATION FOR PLAYER:
+RUN ANIMATION FOR PLAYER & Our Character:
 
 Name of Asset in folder: BasicMotions@Run
 Original Name from Url: Basic Motions FREE
 Url Link: https://assetstore.unity.com/packages/3d/animations/basic-motions-free-154271
+Statement: Size of Character has been modified and added colouring to the character, running is still the same and from the asset store.
 
 HEALTHBAR: 
 
 Name of Asset in folder: blood_red_bar_fill
 Original Name from Url: Health System For Dummies
 Url Link: https://assetstore.unity.com/packages/tools/utilities/health-system-for-dummies-215755
+Statement: Only used the red bar for the health bar and is still the same as downloaded.
 
 CLOUDS:
 
-Name of Asset in folder: Cloud_01/Cloud_04
+Name of Asset in folder: Cloud_01/Cloud_04 (Two cloud assets used)
 Original Name from Url: Simple Sky - Cartoon assets
 Url Link: https://assetstore.unity.com/packages/3d/environments/simple-sky-cartoon-assets-42373
+Statement: hasn't been modified
 
 HEART POWERUP HEAL:
 
 Name of Asset in folder: Heart.prefab
 Original Name from Url: Simple Gems Ultimate Animated Customizable Pack
 Url Link: https://assetstore.unity.com/packages/3d/props/simple-gems-ultimate-animated-customizable-pack-73764
+Statement: hasn't been modified 
 
 COOL CUSTOM FONT:
 Name of Asset in folder: ThaleahFat_TTF SDF.asset
 Original Name from Url: Free Pixel Font - Thaleah
 Url Link:  https://assetstore.unity.com/packages/2d/fonts/free-pixel-font-thaleah-140059
+Statement: hasn't been modified   _____________________________________________________________________________________________
 
-Name of Asset in folder:
-Original Name from Url:
-Url Link:
+NEED TO FIX: 
+
+Name of Asset in folder:StartButton
+Original Name from Url: Game Start
+Url Link: https://pixabay.com/sound-effects/game-start-6104/
+
 
 SIDESCROLLER MAP PARTS - https://assetstore.unity.com/packages/3d/environments/hypepoly-isometric-tiles-standart-lite-193779
