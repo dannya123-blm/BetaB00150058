@@ -1,3 +1,6 @@
+e original name of the asset (from its original source)CHANGE ORIGINAL NAME(DID IT WRONG)
+
+
 SOURCES: B00150058 Daniel Aigbe
 Menu, Game Over and Game Won Background:
 Name of Asset in folder: Background, summer_10
@@ -93,9 +96,9 @@ Original Name from Url: Health System For Dummies
 Url Link: https://assetstore.unity.com/packages/tools/utilities/health-system-for-dummies-215755
 Statement: Only used the red bar for the health bar and is still the same as downloaded.
 
-CLOUDS:
+CLOUDS, Sky Dome & Simple Sky Texture:
 
-Name of Asset in folder: Cloud_01/Cloud_04 (Two cloud assets used)
+Name of Asset in folder: Cloud_01/Cloud_04/SkyDome/SimpleSky
 Original Name from Url: Simple Sky - Cartoon assets
 Url Link: https://assetstore.unity.com/packages/3d/environments/simple-sky-cartoon-assets-42373
 Statement: hasn't been modified
