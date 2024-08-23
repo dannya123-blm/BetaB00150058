@@ -33,7 +33,6 @@ public class CountTimer : MonoBehaviour
             if (remainingTime <= warningTime && !isWarningActive)
             {
                 isWarningActive = true; // Set the warning flag to true
-                StartCoroutine(FlashWarningText()); // Start the coroutine to flash the text
                 audioSource.PlayOneShot(warningClip); // Play the warning sound once
             }
         }
@@ -41,7 +40,6 @@ public class CountTimer : MonoBehaviour
         {
             // Ensure remaining time does not go below zero
             remainingTime = 0;
-            timerText.color = Color.red; // Change the timer text color to red
             StartCoroutine(WaitAndLoadGameOverScene()); // Start the coroutine to wait and then load the GameOver scene
         }
 
@@ -54,16 +52,7 @@ public class CountTimer : MonoBehaviour
     }
 
     // Coroutine to flash the timer text color
-    IEnumerator FlashWarningText()
-    {
-        while (remainingTime > 0)
-        {
-            timerText.color = Color.red; 
-            yield return new WaitForSeconds(0.5f); 
-            timerText.color = Color.white; 
-            yield return new WaitForSeconds(0.5f); 
-        }
-    }
+    
 
     // Coroutine to wait for 2 seconds and then load the GameOver scene
     IEnumerator WaitAndLoadGameOverScene()
